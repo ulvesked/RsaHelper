@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RsaHelper_Tests' do
+  pod 'RsaHelper', :path => '../'
+  
+  
+end
