@@ -18,7 +18,7 @@
 		7F0307FE15E72D0066C4B277 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		8E502B5071FD60B5AEA1C17B /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		9793AAF10CFED67C4690F2C1 /* Pods-RsaHelper_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RsaHelper_Tests.release.xcconfig"; path = "Target Support Files/Pods-RsaHelper_Tests/Pods-RsaHelper_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		B0360634D502B72CDBE51D35 /* RsaHelper.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RsaHelper.podspec; path = ../RsaHelper.podspec; sourceTree = "<group>"; };
+		B0360634D502B72CDBE51D35 /* RsaHelper.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RsaHelper.podspec; path = ../RsaHelper.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		DF9B5654369A6A39F5F3C093 /* Pods_RsaHelper_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RsaHelper_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4466F494DFC29F4DE487FC1 /* Pods-RsaHelper_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RsaHelper_Tests.debug.xcconfig"; path = "Target Support Files/Pods-RsaHelper_Tests/Pods-RsaHelper_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
